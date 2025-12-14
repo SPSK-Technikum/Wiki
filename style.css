@@ -82,6 +82,19 @@ footer {
     font-size: 1.5em;
 }
 
+.book-subtitle {
+    margin: 5px 0;
+    color: #888;
+    font-style: italic;
+    font-size: 0.95em;
+}
+
+.book-isbn {
+    margin: 8px 0;
+    color: #555;
+    font-size: 0.9em;
+}
+
 .book-authors {
     margin: 5px 0;
     color: #555;
@@ -91,4 +104,10 @@ footer {
     margin: 10px 0;
     color: #666;
     line-height: 1.6;
+}
+
+.book-details {
+    margin: 10px 0;
+    color: #777;
+    font-size: 0.9em;
 }
